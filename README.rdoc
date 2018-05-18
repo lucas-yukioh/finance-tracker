@@ -1,3 +1,9 @@
-== README
+Second app from "The Complete Ruby on Rails Developer Course" by Mashrur Hossain.
+Finance Tracker is a simple app for searching and tracking stocks. Users can sign up, search for a stock, add it to the portfolio and they also have a profile page where they can add friends.
 
-This is the finance tracker app from the Complete Ruby on Rails Developer Course!
+The main focus of this app is:
+- Use devise for authentication for fast setup;
+- Customize devise to add first name and last name to the users;
+- Use ajax to the submission and display on the search functionality;
+- Create friendships association and follow friends;
+- Use a gem to lookup stocks and get stock prices.
